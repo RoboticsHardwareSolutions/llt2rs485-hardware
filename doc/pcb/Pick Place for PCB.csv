@@ -1,0 +1,20 @@
+Altium Designer Pick and Place Locations
+\\Mac\Home\Yandex.Disk.localized\Development\Jobs\RHS\ttl2rs485-hardware\doc\pcb\Pick Place for PCB.csv
+
+========================================================================================================================
+File Design Information:
+
+Date:       24/08/24
+Time:       23:30
+Revision:   Not in VersionControl
+Variant:    No variations
+Units used: mil
+
+"Designator","Comment","Layer","Footprint","Center-X(mil)","Center-Y(mil)","Rotation","Description"
+"R2","10k","TopLayer","R_0603","789.370","113.189","90","Resistor"
+"R1","10k","TopLayer","R_0603","789.370","357.284","90","Resistor"
+"D1","SM712-02HTG","TopLayer","SOT23","823.842","238.189","0","ESD"
+"X2","PBD-6","TopLayer","PBD-6-sideways","377.953","300.197","90","Header, 6-Pin, Dual row"
+"X1","DB9","TopLayer","DB9_template","984.252","299.803","90","Connector"
+"U1","SN75176BDR","TopLayer","SO-8","607.284","235.236","0","RS485 Half Duplex Convertor"
+"C1","0.1uF","TopLayer","C_0603","665.354","379.921","0","Capacitor"
